@@ -1,0 +1,12 @@
+1.Project name : BPL Dream 11.
+.
+2.Short description of the project :....A Bangladesh Premier League (BPL) team ideally features a mix of explosive batsmen, skilled bowlers, versatile all-rounders, and a reliable wicketkeeper. The team’s openers set a strong foundation with quick runs, followed by a dependable middle order and finishing batsmen to handle high-pressure situations. All-rounders add flexibility, contributing with both bat and ball, while a balanced bowling attack includes both fast bowlers for power and spinners for control. A sharp wicketkeeper complements the team’s fielding. Led by a strategic captain, this team structure maximizes adaptability and strength in all areas of T20 cricket.  
+.
+3.Technologies used: HTML,Tailwind CSS,Javascript,React.
+4.3 key features of your project:1.this site very fast loading 2.this website is SEO friendly. 3.My Project is colorful. 
+
+5..project Live link : https://deft-gnome-8db04e.netlify.app/
+
+
+
+

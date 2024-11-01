@@ -1,0 +1,91 @@
+[
+     {
+         "playerId": 1,
+         "name": "Virat Kohli",
+         "country": "India",
+         "image": "https://i.ibb.co.com/SdSppVx/virat-kohli-with-trophy-png-photo-1717421042-1385381352.webp",
+         "role": "Batsman",
+         "battingStyle": "Right-hand bat",
+         "bowlingStyle": "Right-arm medium",
+         "biddingPrice": 150000,
+         "Delete":"https://i.ibb.co.com/Tg9qs3x/delete.png",
+         "Profile": "https://i.ibb.co.com/SdSppVx/virat-kohli-with-trophy-png-photo-1717421042-1385381352.webp",
+         "flag":"https://i.ibb.co.com/GQLRdtZ/pngtree-vector-flag-icon-png-image-762945.jpg"
+     },
+     {
+         "playerId": 2,
+         "name": "Ben Stokes",
+         "country": "England",
+         "image": "https://i.ibb.co.com/t4qT1W9/177-1-780x780.png",
+         "role": "All-rounder",
+         "battingStyle": "Left-hand bat",
+         "bowlingStyle": "Right-arm fast-medium",
+         "biddingPrice": 140000,
+         "Profile": "https://i.ibb.co.com/t4qT1W9/177-1-780x780.png",
+         "Delete":"https://i.ibb.co.com/Tg9qs3x/delete.png",
+         "flag":"https://i.ibb.co.com/GQLRdtZ/pngtree-vector-flag-icon-png-image-762945.jpg"
+
+
+     },
+     {
+         "playerId": 3,
+         "name": "Kane Williamson",
+         "country": "New Zealand",
+         "image": "https://i.ibb.co.com/PgpcHtt/383103.webp",
+         "role": "Batsman",
+         "battingStyle": "Right-hand bat",
+         "bowlingStyle": "Right-arm offbreak",
+         "biddingPrice": 110000,
+         "Profile": "https://i.ibb.co.com/PgpcHtt/383103.webp",
+         "Delete":"https://i.ibb.co.com/Tg9qs3x/delete.png",
+         "flag":"https://i.ibb.co.com/GQLRdtZ/pngtree-vector-flag-icon-png-image-762945.jpg"
+
+
+     },
+     {
+         "playerId": 4,
+         "name": "Babar Azam",
+         "country": "Pakisthan",
+         "image": "https://i.ibb.co.com/cJCknFM/BABAR-AZAM-COVER-696x392.webp",
+         "role": "Batsman",
+         "battingStyle": "Right-hand bat",
+         "bowlingStyle": "Right-arm fast",
+         "biddingPrice": 150000,
+         "Profile": "https://i.ibb.co.com/cJCknFM/BABAR-AZAM-COVER-696x392.webp",
+         "Delete":"https://i.ibb.co.com/Tg9qs3x/delete.png",
+         "flag":"https://i.ibb.co.com/GQLRdtZ/pngtree-vector-flag-icon-png-image-762945.jpg"
+
+
+     },
+     {
+         "playerId": 5,
+         "name": "David Warner",
+         "country": "Australia",
+         "image": "https://i.ibb.co.com/N9CW6bq/gettyimages-1160586818-612x612.jpg",
+         "role": "Batsman",
+         "battingStyle": "Left-hand bat",
+         "bowlingStyle": "Right-arm legbreak",
+         "biddingPrice": 140000,
+         "Profile": "https://i.ibb.co.com/N9CW6bq/gettyimages-1160586818-612x612.jpg",
+         "Delete":"https://i.ibb.co.com/Tg9qs3x/delete.png",
+         "flag":"https://i.ibb.co.com/GQLRdtZ/pngtree-vector-flag-icon-png-image-762945.jpg"
+
+
+     },
+     {
+         "playerId": 6,
+         "name": "Andre Russell",
+         "country": "West Indies",
+         "image": "https://i.ibb.co.com/rsHMTJR/gettyimages-2007288707-612x612.jpg",
+         "role": "All-rounder",
+         "battingStyle": "Right-hand bat",
+         "bowlingStyle": "Right-arm fast",
+         "biddingPrice": 160000,
+         "Profile": "https://i.ibb.co.com/rsHMTJR/gettyimages-2007288707-612x612.jpg",
+         "Delete":"https://i.ibb.co.com/Tg9qs3x/delete.png",
+         "flag":"https://i.ibb.co.com/GQLRdtZ/pngtree-vector-flag-icon-png-image-762945.jpg"
+
+
+     }
+ ]
+ 
